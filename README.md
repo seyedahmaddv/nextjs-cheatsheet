@@ -1,4 +1,4 @@
-## 📚 Next.js Cheat Sheet (کامل، کلیک‌خور و عملی)
+## Next.js Cheat Sheet 
 
 ## 🔗 فهرست سریع
 
@@ -264,4 +264,4 @@ pnpm build --debug
 * dependency زیاد = ریسک upgrade
 
 ---
-⬆ بازگشت به فهرست
+⬆ [back up](#Next.js-Cheat-Sheet)
