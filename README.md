@@ -264,4 +264,4 @@ pnpm build --debug
 * dependency زیاد = ریسک upgrade
 
 ---
-⬆ [back up](#Next.js-Cheat-Sheet)
+⬆ [back up](#nextjs-cheat-sheet)
