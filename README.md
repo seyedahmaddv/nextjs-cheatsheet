@@ -256,7 +256,7 @@ pnpm build --debug
 
 ---
 
-## نکات حرفه‌ای
+## نکات حرفه ای
 
 * از `server actions` برای فرم‌ها استفاده کن
 * از `useFormStatus` برای loading فرم
